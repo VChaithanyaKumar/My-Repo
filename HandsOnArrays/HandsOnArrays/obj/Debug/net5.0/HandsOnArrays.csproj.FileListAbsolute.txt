@@ -1,0 +1,16 @@
+D:\Code\codeRED\CapGemini\C#\HandsOnArrays\HandsOnArrays\bin\Debug\net5.0\HandsOnArrays.exe
+D:\Code\codeRED\CapGemini\C#\HandsOnArrays\HandsOnArrays\bin\Debug\net5.0\HandsOnArrays.deps.json
+D:\Code\codeRED\CapGemini\C#\HandsOnArrays\HandsOnArrays\bin\Debug\net5.0\HandsOnArrays.runtimeconfig.json
+D:\Code\codeRED\CapGemini\C#\HandsOnArrays\HandsOnArrays\bin\Debug\net5.0\HandsOnArrays.runtimeconfig.dev.json
+D:\Code\codeRED\CapGemini\C#\HandsOnArrays\HandsOnArrays\bin\Debug\net5.0\HandsOnArrays.dll
+D:\Code\codeRED\CapGemini\C#\HandsOnArrays\HandsOnArrays\bin\Debug\net5.0\ref\HandsOnArrays.dll
+D:\Code\codeRED\CapGemini\C#\HandsOnArrays\HandsOnArrays\bin\Debug\net5.0\HandsOnArrays.pdb
+D:\Code\codeRED\CapGemini\C#\HandsOnArrays\HandsOnArrays\obj\Debug\net5.0\HandsOnArrays.csproj.AssemblyReference.cache
+D:\Code\codeRED\CapGemini\C#\HandsOnArrays\HandsOnArrays\obj\Debug\net5.0\HandsOnArrays.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\codeRED\CapGemini\C#\HandsOnArrays\HandsOnArrays\obj\Debug\net5.0\HandsOnArrays.AssemblyInfoInputs.cache
+D:\Code\codeRED\CapGemini\C#\HandsOnArrays\HandsOnArrays\obj\Debug\net5.0\HandsOnArrays.AssemblyInfo.cs
+D:\Code\codeRED\CapGemini\C#\HandsOnArrays\HandsOnArrays\obj\Debug\net5.0\HandsOnArrays.csproj.CoreCompileInputs.cache
+D:\Code\codeRED\CapGemini\C#\HandsOnArrays\HandsOnArrays\obj\Debug\net5.0\HandsOnArrays.dll
+D:\Code\codeRED\CapGemini\C#\HandsOnArrays\HandsOnArrays\obj\Debug\net5.0\ref\HandsOnArrays.dll
+D:\Code\codeRED\CapGemini\C#\HandsOnArrays\HandsOnArrays\obj\Debug\net5.0\HandsOnArrays.pdb
+D:\Code\codeRED\CapGemini\C#\HandsOnArrays\HandsOnArrays\obj\Debug\net5.0\HandsOnArrays.genruntimeconfig.cache
